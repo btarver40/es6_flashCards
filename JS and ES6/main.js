@@ -28,18 +28,6 @@ $('#flipCard').click(function() {
 })
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 // const cardFront = {}
 // const cardBack = {}
 // const cardFrontInput = {}
@@ -47,19 +35,23 @@ $('#flipCard').click(function() {
 
 // $('#btn-addCard').on('click' =>(){
 //   if (true){
-//     let cardFront = newCard  
+//     let cardFront = the user's input?? idk how to write this  
 //   }
 
 // }}
 
 
-// $('#btn-EditCard').on('click' =>(){
+// $('#btn-editCard').on('click' =>(){
 //   var newCard = (cardFront) => {
 //     console.log();
 
 
 // }}
   
+// $('#btn-deleteCard').on('click' =>(){
+  
+}
+
 // const cardFront = (user_input) => {
 //   return `${user_input}`;
 //  }
